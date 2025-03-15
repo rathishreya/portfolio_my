@@ -133,7 +133,7 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-xl sm:text-2xl font-medium text-gray-700 dark:text-gray-300 mb-6"
         >
-          Software Engineer & Microsoft Student Ambassador
+          Computer Science Engineer
         </motion.h2>
 
         <motion.p
@@ -142,7 +142,7 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.3 }}
           className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto mb-8"
         >
-          Passionate about building innovative web applications and solving complex problems with clean, efficient code.
+         Passionate about bridging technology and business to drive impactful solutions and efficient execution
         </motion.p>
 
         <motion.div
