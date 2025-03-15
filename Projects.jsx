@@ -32,28 +32,28 @@ const Projects = () => {
       title: "Jewel Zone",
       description:
         "A full-stack e-commerce web application for jewelry products with user authentication, product catalog, shopping cart, and payment integration.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://drive.google.com/file/d/1IbL_N3Srl_dg-bVtDxlfLdaXyLCGtCeC/view?usp=sharing",
       technologies: ["React", "MongoDB", "Express.js", "Node.js", "Tailwind CSS"],
       details: [
         "Developed a full-stack web application using React, MongoDB, Express.js, and Tailwind CSS.",
         "Implemented responsive UI/UX design for improved user experience.",
         "Gained hands-on experience in modern web development practices and tools.",
       ],
-      github: "#",
+      github: "https://github.com/rathishreya/Jewel-Zone",
       demo: "#",
     },
     {
       title: "Hospital Website",
       description:
         "A comprehensive hospital management system with patient records, appointment scheduling, and staff management features.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://drive.google.com/file/d/18yuTrHEXo6KrycOIlg2n0RarPSdguaVT/view?usp=drive_link",
       technologies: ["React", "MongoDB", "Express.js", "Node.js", "Tailwind CSS"],
       details: [
         "Designed and developed a full-stack hospital website using React, MongoDB, Express.js, and Tailwind CSS.",
         "Created intuitive user interfaces and responsive designs for improved patient and staff interactions.",
         "Implemented backend APIs for seamless data management and real-time updates.",
       ],
-      github: "#",
+      github: "https://github.com/rathishreya/Hospital-Website",
       demo: "#",
       status: "ongoing",
     },
