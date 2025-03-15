@@ -99,7 +99,7 @@ const Hero = () => {
             className="relative"
           >
             <img
-              src="/placeholder.svg?height=150&width=150"
+              src="https://drive.google.com/file/d/1moBpN9EHuo_Dt5kNQxdPO-R-Vx3089kv/view?usp=drive_link"
               alt="Shreyanshi Rathi"
               className="w-32 h-32 rounded-full border-4 border-white dark:border-gray-800 shadow-xl object-cover relative z-10"
             />
